@@ -1,0 +1,5 @@
+com\mycompany\chess\main.class
+com\mycompany\chess\Pawn.class
+com\mycompany\chess\Game.class
+com\mycompany\chess\Knight.class
+com\mycompany\chess\Piece.class
